@@ -55,7 +55,7 @@
     <td width="50%">
       <h3 align="center">🎨 Kaizen 3D Solutions (Co-Founder)</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/500x300?text=HueForge+Print+Example" width="100%" />
+        <img src="https://github.com/Nohra2005/Nohra2005/blob/main/kaizen.png" />
       </div>
     </td>
     <td width="50%">
