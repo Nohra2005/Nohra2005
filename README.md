@@ -112,7 +112,7 @@
     <td width="50%">
       <h3 align="center">🛒 Multithreaded Shop Platform</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/500x300?text=PyQt5+Shop+UI" width="100%" />
+        <img src="https://github.com/Nohra2005/Nohra2005/blob/main/Screenshot%202025-12-10%20144635.png" />
       </div>
     </td>
     <td width="50%">
