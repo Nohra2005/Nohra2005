@@ -126,7 +126,7 @@
         <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
       <p>
-        <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+        <a href="https://github.com/Nohra2005/AUBoutique-GUI"><strong>View Project »</strong></a>
       </p>
     </td>
   </tr>
