@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=My%20Portfolio&fontSize=70&fontColor=ffffff" width="100%"/>
   
   <h3> Hi there, I'm Tatiana Nohra 👋</h3>
-  <p>I am a Computer Science and Engineering student at the American University of Beirut specializing in AI, software, and embedded systems.</p>
+  <p>
+    I am a <strong>Computer Science and Engineering</strong> student at the American University of Beirut (Presidential Merit Scholar), specializing in <strong>AI</strong> and <strong>Embedded Systems</strong>. I am passionate about developing real-world intelligent systems that bridge hardware and software. [cite: 5, 6, 7]
+  </p>
   
   <a href="https://www.linkedin.com/in/tatiana-nohra/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,29 +16,33 @@
 
 <br />
 
-## 🏆 Selected Projects & Ventures
+## 🚀 Flagship Ventures
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Jumanji Board Game</h3>
+      <h3 align="center">🎲 Jumanji Smart Board Game</h3>
+      <h4 align="center"><i>University of Sydney - Group Project</i></h4>
       <div align="center">
-        <img src="https://github.com/Nohra2005/Nohra2005/blob/main/1763466445910.jpeg?raw=true" width="100%" />
+        <img src="https://github.com/Nohra2005/Nohra2005/blob/main/1763466445910.jpeg?raw=true" width="100%" alt="Jumanji Project"/>
       </div>
     </td>
     <td width="50%">
       <br />
       <p>
-        <strong>What it is:</strong> A technically complex replica of the Jumanji board game. I engineered a distributed system using a <strong>Raspberry Pi</strong> (running Python for logic/audio) communicating with an <strong>ESP32</strong> (running C++ for hardware control) to automate the magnetic pieces and lighting effects.
+        <strong>What it is:</strong> A smart, AI-integrated board game developed as a <strong>group project</strong> during my exchange semester at the <strong>University of Sydney</strong>.
+      </p>
+      <p>
+        Our team engineered a distributed system using a <strong>Raspberry Pi</strong> and <strong>ESP32</strong> to control 24+ sensors, 4 servos, and a BLE die. We integrated the <strong>Gemini API</strong> to generate dynamic trivia and challenges, creating an immersive experience. 
       </p>
       <p>
         <strong>Tech Stack:</strong> <br />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hardware-Raspberry_Pi_&_ESP32-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-AI-8E75B2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-Raspberry_Pi-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-ESP32-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       </p>
       <p>
-        <a href="#"><strong>🎥 Watch Demo »</strong></a>
+        <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
       </p>
     </td>
   </tr>
@@ -47,22 +53,152 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Kaizen (Co-Founder)</h3>
+      <h3 align="center">🎨 Kaizen 3D Solutions (Co-Founder)</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/500x300?text=Kaizen+3D+Printing" width="100%" />
+        <img src="https://via.placeholder.com/500x300?text=HueForge+Print+Example" width="100%" />
       </div>
     </td>
     <td width="50%">
       <br />
       <p>
-        <strong>What it is:</strong> Co-founded a 3D printing business specializing in custom lithophanes and "filament painting" using HueForge. I manage the technical production, optimizing layer transmission distances for photo-realistic prints, and oversee the business operations.
+        <strong>What it is:</strong> Co-founded a 3D printing startup supplying custom items to local art workshops. I manage the full lifecycle from <strong>Fusion 360</strong> design to wholesale delivery, specializing in HueForge filament painting. 
       </p>
       <p>
         <strong>Tech Stack:</strong> <br />
-        <img src="https://img.shields.io/badge/HueForge-Color_Blending-purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/3D_Printing-FDM_Optimization-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Business-Management-success?style=flat-square" />
+        <img src="https://img.shields.io/badge/Design-Fusion_360-E67E22?style=flat-square&logo=autodesk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Manufacturing-3D_Printing-blue?style=flat-square" />
       </p>
+      <p>
+        <a href="LINK_TO_YOUR_REPO_OR_SOCIALS"><strong>View Work »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 💻 Software & Web Development
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Slimco Trading Website</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/500x300?text=Website+Screenshot" width="100%" />
+      </div>
+    </td>
+    <td width="50%">
+      <br />
+      <p>
+        <strong>What it is:</strong> Leading the redesign of the Slimco Trading website focusing on improved UI/UX. I am building a responsive platform using a modern stack including <strong>Next.js</strong> and <strong>Sanity CMS</strong>. 
+      </p>
+      <p>
+        <strong>Tech Stack:</strong> <br />
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/CMS-Sanity-F03E2F?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <p>
+        <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛒 Multithreaded Shop Platform</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/500x300?text=PyQt5+Shop+UI" width="100%" />
+      </div>
+    </td>
+    <td width="50%">
+      <br />
+      <p>
+        <strong>What it is:</strong> A desktop shop application built with <strong>PyQt5</strong>. It features a cart system, messaging, and product actions backed by an <strong>SQLite</strong> database (5+ tables). I built the core UI modules as part of a 3-member team at AUB. 
+      </p>
+      <p>
+        <strong>Tech Stack:</strong> <br />
+        <img src="https://img.shields.io/badge/Python-PyQt5-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <p>
+        <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">⏱️ Productivity App</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/500x300?text=Productivity+App" width="100%" />
+      </div>
+    </td>
+    <td width="50%">
+      <br />
+      <p>
+        <strong>What it is:</strong> An independent tool developed in <strong>PyQt5</strong> featuring 5 screens, user-defined work/rest timers, and an integrated SQLite todo database for task management. 
+      </p>
+      <p>
+        <strong>Tech Stack:</strong> <br />
+        <img src="https://img.shields.io/badge/Python-PyQt5-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Logic-Multithreading-yellow?style=flat-square" />
+      </p>
+      <p>
+        <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## ⚙️ Hardware & Mobile
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">✈️ RC Aircraft Systems</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/500x300?text=RC+Plane+Prototype" width="100%" />
+      </div>
+      <br />
+      <p>
+        Built a 1.1m wingspan RC aircraft with a brushless motor, gyroscope, and servos using laser-cut cardboard at <strong>AUB</strong>. Completed 2 iterations in 1 month. 
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Hardware-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prototyping-Laser_Cutting-orange?style=flat-square" />
+      </p>
+      <div align="center">
+         <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Android Flag Quiz</h3>
+      <div align="center">
+        <img src="https://via.placeholder.com/500x300?text=Android+App+Screen" width="100%" />
+      </div>
+      <br />
+      <p>
+        <strong>2nd Place Winner, LAU CS Camp.</strong> Developed a Java-based flag-quiz application in just 2 days using Android Studio. 
+      </p>
+      <br />
+      <p>
+        <img src="https://img.shields.io/badge/Java-Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Award-2nd_Place-gold?style=flat-square" />
+      </p>
+      <div align="center">
+         <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+      </div>
     </td>
   </tr>
 </table>
@@ -71,7 +207,7 @@
 
 ## 🛠️ Tools & Technologies
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,raspberrypi,html,css,react,git,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,nextjs,react,flutter,git,arduino,raspberrypi,fusion360,linux" />
 </div>
 
 <br />
