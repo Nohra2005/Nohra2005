@@ -21,7 +21,7 @@
     <td width="50%">
       <h3 align="center">Jumanji Board Game</h3>
       <div align="center">
-        <img src="https://via.placeholder.com/500x300?text=Project+Image+Here" width="100%" />
+        <img src="https://github.com/Nohra2005/Nohra2005/blob/main/1763466445910.jpeg" />
       </div>
     </td>
     <td width="50%">
