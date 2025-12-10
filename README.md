@@ -161,50 +161,6 @@
 
 <br />
 
-## ⚙️ Hardware & Mobile
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">✈️ RC Aircraft Systems</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/500x300?text=RC+Plane+Prototype" width="100%" />
-      </div>
-      <br />
-      <p>
-        Built a 1.1m wingspan RC aircraft with a brushless motor, gyroscope, and servos using laser-cut cardboard at <strong>AUB</strong>. Completed 2 iterations in 1 month. 
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Hardware-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prototyping-Laser_Cutting-orange?style=flat-square" />
-      </p>
-      <div align="center">
-         <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📱 Android Flag Quiz</h3>
-      <div align="center">
-        <img src="https://via.placeholder.com/500x300?text=Android+App+Screen" width="100%" />
-      </div>
-      <br />
-      <p>
-        <strong>2nd Place Winner, LAU CS Camp.</strong> Developed a Java-based flag-quiz application in just 2 days using Android Studio. 
-      </p>
-      <br />
-      <p>
-        <img src="https://img.shields.io/badge/Java-Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Award-2nd_Place-gold?style=flat-square" />
-      </p>
-      <div align="center">
-         <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## 🛠️ Tools & Technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,nextjs,react,flutter,git,arduino,raspberrypi,fusion360,linux" />
