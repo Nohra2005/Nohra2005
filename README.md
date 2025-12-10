@@ -3,7 +3,7 @@
   
   <h3> Hi there, I'm Tatiana Nohra 👋</h3>
   <p>
-    I am a <strong>Computer Science and Engineering</strong> student at the American University of Beirut (Presidential Merit Scholar), specializing in <strong>AI</strong> and <strong>Embedded Systems</strong>. I am passionate about developing real-world intelligent systems that bridge hardware and software. [cite: 5, 6, 7]
+    I am a <strong>Computer Science and Engineering</strong> student at the American University of Beirut (Presidential Merit Scholar), specializing in <strong>AI</strong> and <strong>Embedded Systems</strong>. I am passionate about developing real-world intelligent systems that bridge hardware and software. 
   </p>
   
   <a href="https://www.linkedin.com/in/tatiana-nohra/">
