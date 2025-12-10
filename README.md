@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/C++-ESP32-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
       </p>
       <p>
-        <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+        <a href="https://github.com/Nohra2005/jumanji-ai-board-game"><strong>View Project »</strong></a>
       </p>
     </td>
   </tr>
