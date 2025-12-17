@@ -28,15 +28,6 @@
 >
 > 🔗 [**View Repository**](https://github.com/Nohra2005/Jumanji-Board-Game)
 
----
-
-### 🎨 Kaizen 3D Solutions
-**Co-Founder** A 3D printing startup supplying custom items to local art workshops. I manage the full lifecycle from **Fusion 360** design to wholesale delivery, specializing in HueForge filament painting and rapid prototyping.
-
-> **Tech Stack:** > <img src="https://img.shields.io/badge/Design-Fusion_360-E67E22?style=flat-square&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/Manufacturing-3D_Printing-blue?style=flat-square" />
->
-> 🔗 [**View Work**](LINK_TO_YOUR_REPO_OR_SOCIALS)
-
 <br />
 
 ## 🤖 Machine Learning & AI
