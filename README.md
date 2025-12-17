@@ -3,7 +3,7 @@
   
   <h3> Hi there, I'm Tatiana Nohra 👋</h3>
   <p>
-    Computer Science & Engineering student specializing in AI, with hands-on experience in embedded systems. US citizen with strong academic background (Presidential Merit Scholar) and international exposure at AUB and the University of Sydney. Passionate about developing systems that bridge hardware and software. 
+Computer Science & Engineering student specializing in AI, with hands-on experience in embedded systems. US citizen with strong academic background (Presidential Merit Scholar) and international exposure at AUB and the University of Sydney. Passionate about developing systems that bridge hardware and software. 
   </p>
   
   <a href="https://www.linkedin.com/in/tatiana-nohra/">
