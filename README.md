@@ -145,7 +145,7 @@
     <td width="50%">
       <br />
       <p>
-        <strong>What it is:</strong> An independent tool developed in <strong>PyQt5</strong> featuring 5 screens, user-defined work/rest timers, and an integrated SQLite todo database for task management. 
+        <strong>What it is:</strong> An independent tool developed using Expo Go and React featuring 4 screens: todo, timers, calendar and reminders.
       </p>
       <p>
         <strong>Tech Stack:</strong> <br />
