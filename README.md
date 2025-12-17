@@ -168,7 +168,3 @@
 
 <br />
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nohra2005&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
-</div>
