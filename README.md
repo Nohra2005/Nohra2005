@@ -149,8 +149,8 @@
       </p>
       <p>
         <strong>Tech Stack:</strong> <br />
-        <img src="https://img.shields.io/badge/Python-PyQt5-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Logic-Multithreading-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo_Go-000020?style=flat-square&logo=expo&logoColor=white" />
       </p>
       <p>
         <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
