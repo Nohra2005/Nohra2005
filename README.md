@@ -153,7 +153,7 @@ Computer Science & Engineering student specializing in AI, with hands-on experie
         <img src="https://img.shields.io/badge/Expo_Go-000020?style=flat-square&logo=expo&logoColor=white" />
       </p>
       <p>
-        <a href="LINK_TO_YOUR_REPO"><strong>View Project »</strong></a>
+        <a href="https://github.com/Nohra2005/ProductivityApp"><strong>View Project »</strong></a>
       </p>
     </td>
   </tr>
