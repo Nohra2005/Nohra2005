@@ -46,7 +46,7 @@
 
 > **Tech Stack:** > <img src="https://img.shields.io/badge/ML-Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Data-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 >
-> 🔗 [**View Repository**](https://github.sydney.edu.au/siye7007/COMP4318-A2) *(Note: Update to public link if needed)*
+> 🔗 [**View Repository**](https://github.sydney.edu.au/siye7007/COMP4318-A2) 
 
 <br />
 
